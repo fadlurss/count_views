@@ -1,0 +1,25 @@
+{
+  "name": "count_views",
+  "version": "1.0.0",
+  "description": "Menghitung jumlah viewers website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fadlurss/count_views.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fadlurss/count_views/issues"
+  },
+  "homepage": "https://github.com/fadlurss/count_views#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "nodejs": "0.0.0",
+    "socket.io": "^2.2.0"
+  }
+}
